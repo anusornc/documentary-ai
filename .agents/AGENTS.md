@@ -22,19 +22,19 @@ The workflow uses Node scripts in the customization folder and a local Python sc
 
 1.  **Scaffold**:
     ```bash
-    node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/new-project.mjs" --slug <slug> --title "<title>" --episodes <count>
+    node "~/.gemini/config/skills/hearyourvoice/scripts/new-project.mjs" --slug <slug> --title "<title>" --episodes <count>
     ```
 2.  **Voiceover Generation** (uses ElevenLabs API):
     ```bash
-    node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/gen-voiceover.mjs" --slug <slug> --voice-id JBFqnCBsd6RMkjVDRZzb
+    node "~/.gemini/config/skills/hearyourvoice/scripts/gen-voiceover.mjs" --slug <slug> --voice-id JBFqnCBsd6RMkjVDRZzb
     ```
 3.  **Audio Measurement**:
     ```bash
-    node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/measure-voiceover.mjs" --dir public/<slug>/voiceover --out src/<slug>/voiceover-durations.json
+    node "~/.gemini/config/skills/hearyourvoice/scripts/measure-voiceover.mjs" --dir public/<slug>/voiceover --out src/<slug>/voiceover-durations.json
     ```
 4.  **Timeline Export**:
     ```bash
-    node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/export-timeline.mjs" --slug <slug> --episode <ep> --brief src/<slug>/edit/<ep>-insert-plan.json --durations src/<slug>/voiceover-durations.json
+    node "~/.gemini/config/skills/hearyourvoice/scripts/export-timeline.mjs" --slug <slug> --episode <ep> --brief src/<slug>/edit/<ep>-insert-plan.json --durations src/<slug>/voiceover-durations.json
     ```
 5.  **Stitch & Compile Video**:
     ```bash
@@ -42,7 +42,7 @@ The workflow uses Node scripts in the customization folder and a local Python sc
     ```
 6.  **Package Delivery**:
     ```bash
-    node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/package-delivery.mjs" --slug <slug>
+    node "~/.gemini/config/skills/hearyourvoice/scripts/package-delivery.mjs" --slug <slug>
     ```
 
 ---

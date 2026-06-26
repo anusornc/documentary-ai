@@ -17,7 +17,7 @@ for i, arg in enumerate(sys.argv):
 print(f"🎬 Compiling video for project: {slug} | Episode: {episode}")
 
 # Paths
-BASE_DIR = "/Users/anusornchaikaew/Work/Train/AI_voice"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INSERT_PLAN_PATH = os.path.join(BASE_DIR, f"src/{slug}/edit/{episode}-insert-plan.json")
 VOICEOVER_PATH = os.path.join(BASE_DIR, f"public/{slug}/voiceover/{episode}.mp3")
 GENERATED_DIR = os.path.join(BASE_DIR, f"public/{slug}/generated")
