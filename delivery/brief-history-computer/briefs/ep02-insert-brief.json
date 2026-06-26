@@ -1,0 +1,107 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 6.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Title slide: 'ปฏิวัติพีซี และโลกอินเทอร์เน็ต'"
+  },
+  {
+    "start_sec": 6.0,
+    "end_sec": 11.0,
+    "source": "graphic",
+    "file": "19_young_scientist_retro.jpg",
+    "note": "A developer coding at a vintage green-character CRT terminal."
+  },
+  {
+    "start_sec": 11.0,
+    "end_sec": 17.0,
+    "source": "graphic",
+    "file": "20_abandoned_lab_winter.jpg",
+    "note": "A room of server terminals showing old, complex computing machines."
+  },
+  {
+    "start_sec": 17.0,
+    "end_sec": 22.0,
+    "source": "graphic",
+    "file": "21_motorized_potentiometer_gears.jpg",
+    "note": "Close-up of mechanical gear assembly representing early PC motherboard components."
+  },
+  {
+    "start_sec": 22.0,
+    "end_sec": 27.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1977: Apple II คอมพิวเตอร์ประกอบเสร็จ'"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 33.0,
+    "source": "graphic",
+    "file": "23_mark_perceptron_computer.jpg",
+    "note": "IBM mainframes or computing cabinets used in corporate offices."
+  },
+  {
+    "start_sec": 33.0,
+    "end_sec": 38.0,
+    "source": "graphic",
+    "file": "24_young_scientist_retro.jpg",
+    "note": "A researcher programming text commands on MS-DOS console interface."
+  },
+  {
+    "start_sec": 38.0,
+    "end_sec": 43.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1981: IBM PC และ ระบบปฏิบัติการ DOS'"
+  },
+  {
+    "start_sec": 43.0,
+    "end_sec": 49.0,
+    "source": "graphic",
+    "file": "26_frank_rosenblatt_lab.jpg",
+    "note": "Scientists demonstrating new computer designs to the team."
+  },
+  {
+    "start_sec": 49.0,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "27_logic_neuron_graphic.jpg",
+    "note": "A clean graphic showing design elements and buttons on a digital interface."
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 59.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1984: Macintosh ปฏิวัติกราฟิก UI และเมาส์'"
+  },
+  {
+    "start_sec": 59.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "29_matrix_waterfall_math.jpg",
+    "note": "A glowing waterfall of data numbers representing global communication network."
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "30_modern_data_center.jpg",
+    "note": "A glowing server room representing web server clusters hosting early websites."
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 75.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1991: กำเนิด World Wide Web'"
+  },
+  {
+    "start_sec": 75.0,
+    "end_sec": 83.3,
+    "source": "graphic",
+    "file": "text",
+    "note": "Final punchline slide: 'ประตูบานยักษ์ที่เชื่อมโยงความรู้ของมนุษยชาติ'"
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "format": "hearyourvoice-deliverable",
+  "formatVersion": 1,
+  "slug": "history-ai-math-to-model",
+  "title": "history-ai-math-to-model",
+  "video": {
+    "aspect": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "generatedAt": "2026-06-26T14:52:06.929Z",
+  "status": "ready",
+  "summary": {
+    "episodes": 3,
+    "ready": 3,
+    "incomplete": 0
+  },
+  "artifacts": {
+    "voiceover_v1": "script/voiceover-v1.md",
+    "script_v1": "script/script-v1.md",
+    "shotlist": "script/shotlist.xlsx",
+    "attribution": null
+  },
+  "episodes": [
+    {
+      "id": "ep1",
+      "title": "",
+      "voiceFile": "voiceover/ep01.mp3",
+      "voiceSec": 79.92,
+      "targetSec": 80.73,
+      "durationInFrames": 2422,
+      "insertCount": 15,
+      "sources": {
+        "generative": 2,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 13
+      },
+      "brief": "briefs/ep01-insert-brief.json",
+      "render": {
+        "file": "video/history-ai-math-to-model-ep01.mp4",
+        "exists": true,
+        "durationSec": 80.73,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 80.73,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep2",
+      "title": "",
+      "voiceFile": "voiceover/ep02.mp3",
+      "voiceSec": 85.36,
+      "targetSec": 86.17,
+      "durationInFrames": 2585,
+      "insertCount": 16,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 16
+      },
+      "brief": "briefs/ep02-insert-brief.json",
+      "render": {
+        "file": "video/history-ai-math-to-model-ep02.mp4",
+        "exists": true,
+        "durationSec": 86.17,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 86.17,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep3",
+      "title": "",
+      "voiceFile": "voiceover/ep03.mp3",
+      "voiceSec": 86.08,
+      "targetSec": 86.9,
+      "durationInFrames": 2607,
+      "insertCount": 16,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 16
+      },
+      "brief": "briefs/ep03-insert-brief.json",
+      "render": {
+        "file": "video/history-ai-math-to-model-ep03.mp4",
+        "exists": true,
+        "durationSec": 86.9,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 86.9,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    }
+  ],
+  "series": {
+    "exists": false
+  }
+}

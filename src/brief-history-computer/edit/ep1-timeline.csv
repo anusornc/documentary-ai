@@ -1,0 +1,18 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:06:00,0,6,6,graphic,brief-history-computer/ep1/text,Title slide: 'ประวัติศาสตร์คอมพิวเตอร์ จากฟันเฟืองสู่ชิปซิลิคอน'
+2,00:00:06:00,00:00:12:00,6,12,6,graphic,brief-history-computer/ep1/2_mark_perceptron_computer.jpg,A massive historical vacuum-tube or mechanical compute rack representing early machines.
+3,00:00:12:00,00:00:18:00,12,18,6,graphic,brief-history-computer/ep1/3_motorized_potentiometer_gears.jpg,"Close-up of mechanical copper coils and gears turning, representing Babbage's mechanical designs."
+4,00:00:18:00,00:00:24:00,18,24,6,graphic,brief-history-computer/ep1/4_walter_pitts_chalkboard.jpg,Mathematical logic blackboard diagrams representing Ada Lovelace's algorithms.
+5,00:00:24:00,00:00:29:00,24,29,5,graphic,brief-history-computer/ep1/text,Text slide: '1837: เครื่องกลวิเคราะห์คณิตศาสตร์'
+6,00:00:29:00,00:00:35:00,29,35,6,graphic,brief-history-computer/ep1/6_mark_perceptron_computer.jpg,Room-sized electrical patchboards and dials representing ENIAC's immense scale.
+7,00:00:35:00,00:00:41:00,35,41,6,graphic,brief-history-computer/ep1/7_abandoned_lab_winter.jpg,"Retro 1950s/60s server lab setting, showing physical racks."
+8,00:00:41:00,00:00:46:00,41,46,5,graphic,brief-history-computer/ep1/text,Text slide: '1945: ยักษ์ใหญ่ ENIAC หนัก 27 ตัน'
+9,00:00:46:00,00:00:52:00,46,52,6,graphic,brief-history-computer/ep1/9_young_scientist_retro.jpg,Young researcher operating front-panel buttons of a vintage mainframe computer.
+10,00:00:52:00,00:00:58:00,52,58,6,graphic,brief-history-computer/ep1/10_melting_microchip.jpg,"A glowing microchip or early electronic circuit, showing transistors."
+11,00:00:58:00,00:01:03:00,58,63,5,graphic,brief-history-computer/ep1/text,Text slide: '1947: ทรานซิสเตอร์ปฏิวัติวงการ'
+12,00:01:03:00,00:01:09:00,63,69,6,graphic,brief-history-computer/ep1/12_melting_microchip.jpg,Close-up detail of golden circuits on a silicon wafer.
+13,00:01:09:00,00:01:15:00,69,75,6,graphic,brief-history-computer/ep1/13_deep_neural_network.jpg,Complex logic gate patterns on microchip scale.
+14,00:01:15:00,00:01:20:00,75,80,5,graphic,brief-history-computer/ep1/text,Text slide: '1958: ไมโครชิป แผ่นซิลิคอนจิ๋ว'
+15,00:01:20:00,00:01:26:00,80,86,6,graphic,brief-history-computer/ep1/15_modern_data_center.jpg,High-tech server room with blue and purple LED arrays representing modern cloud infrastructure.
+16,00:01:26:00,00:01:32:00,86,92,6,graphic,brief-history-computer/ep1/16_matrix_waterfall_math.jpg,"Digital information code cascading like a waterfall, representing pocket smartphone power."
+17,00:01:32:00,00:01:40:29,92,100.97,8.97,graphic,brief-history-computer/ep1/text,Final punchline slide: 'คอมพิวเตอร์ไม่ได้แค่ย่อขนาดลง แต่มันกำลังขยายจินตนาการมนุษย์'

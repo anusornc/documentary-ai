@@ -1,0 +1,16 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:05:00,0,5,5,graphic,history-ai-math-to-model/ep1/text,Text graphic showing: 'ต้นกำเนิด AI จากเด็กหนุ่มไร้บ้าน' with slow zoom-in on paper textures.
+2,00:00:05:00,00:00:10:00,5,10,5,graphic,history-ai-math-to-model/ep1/2_walter_pitts_chalkboard.jpg,Historical photo of Walter Pitts and Warren McCulloch overlayed on mathematical sketches.
+3,00:00:10:00,00:00:15:00,10,15,5,graphic,history-ai-math-to-model/ep1/3_logic_neuron_graphic.jpg,Animation showing biological neuron firing and turning into a simple binary AND logic gate.
+4,00:00:15:00,00:00:20:00,15,20,5,graphic,history-ai-math-to-model/ep1/4_frank_rosenblatt_lab.jpg,Archival photo or video of Frank Rosenblatt pointing at blackboards or paper charts.
+5,00:00:20:00,00:00:25:00,20,25,5,graphic,history-ai-math-to-model/ep1/text,Typography overlay: 'NO CODE' with glitch effects over analog electronics background.
+6,00:00:25:00,00:00:30:00,25,30,5,graphic,history-ai-math-to-model/ep1/6_mark_perceptron_computer.jpg,Pan across the massive electromechanical racks of the Mark I Perceptron.
+7,00:00:30:00,00:00:35:00,30,35,5,generative,history-ai-math-to-model/ep1/7_motorized_potentiometer_gears.jpg,Close-up macro shot of copper wire coils and small motors rotating analog dials and gears.
+8,00:00:35:00,00:00:41:00,35,41,6,graphic,history-ai-math-to-model/ep1/text,Graphic text overlay: '1969: The Death of AI' with fading timeline animation.
+9,00:00:41:00,00:00:47:00,41,47,6,graphic,history-ai-math-to-model/ep1/9_xor_logic_failure.jpg,"Mathematical graph showing 4 dots (2 red, 2 blue) crossed, showing that a single straight line cannot separate them (XOR problem)."
+10,00:00:47:00,00:00:53:00,47,53,6,graphic,history-ai-math-to-model/ep1/10_ai_winter_freeze.jpg,"Artistic shot of cold, snowy university buildings or frosted microchips to represent the first AI Winter."
+11,00:00:53:00,00:00:59:00,53,59,6,graphic,history-ai-math-to-model/ep1/11_backprop_equations.jpg,Mathematical equations of partial derivatives and chain rule flying forward in glowing white lines.
+12,00:00:59:00,00:01:05:00,59,65,6,graphic,history-ai-math-to-model/ep1/12_multilayer_network_xor.jpg,"Diagram showing a multi-layer neural network adjusting weights, drawing a curved decision boundary to successfully classify XOR."
+13,00:01:05:00,00:01:10:00,65,70,5,graphic,history-ai-math-to-model/ep1/13_modern_data_center.jpg,"Quick camera sweep through a glowing, high-tech modern AI data center with blue/purple LED lights."
+14,00:01:10:00,00:01:15:00,70,75,5,generative,history-ai-math-to-model/ep1/14_matrix_waterfall_math.jpg,Dynamic visualization of massive numbers and matrix multiplications flowing on screen like a waterfall of light.
+15,00:01:15:00,00:01:20:22,75,80.73,5.73,graphic,history-ai-math-to-model/ep1/text,"Text graphic overlay of the final punchline with fading cinematic glow, showing the title 'จากสมการ สู่โมเดล'."

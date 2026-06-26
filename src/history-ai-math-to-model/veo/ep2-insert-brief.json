@@ -1,0 +1,114 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 5.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Title slide: '1969: ยุคมืด ของ AI และปาฏิหาริย์ แบคพรอพพาเกชัน'"
+  },
+  {
+    "start_sec": 5.0,
+    "end_sec": 10.0,
+    "source": "graphic",
+    "file": "16_minsky_perceptrons_book.jpg",
+    "note": "Vintage book cover of Perceptrons by Marvin Minsky on desk."
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 15.0,
+    "source": "graphic",
+    "file": "17_xor_logic_failure.jpg",
+    "note": "Mathematical XOR linear separation failure graph."
+  },
+  {
+    "start_sec": 15.0,
+    "end_sec": 20.0,
+    "source": "graphic",
+    "file": "18_hand_drawing_line_failure.jpg",
+    "note": "Hand drawing a chalk line failing to separate diagonal points on blackboard."
+  },
+  {
+    "start_sec": 20.0,
+    "end_sec": 25.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: 'NO CODE / ไม่มีโค้ดสักบรรทัดเดียว'"
+  },
+  {
+    "start_sec": 25.0,
+    "end_sec": 31.0,
+    "source": "graphic",
+    "file": "20_abandoned_lab_winter.jpg",
+    "note": "Abandoned 1970s computer lab showing the start of AI winter."
+  },
+  {
+    "start_sec": 31.0,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "21_ai_winter_freeze.jpg",
+    "note": "Frosted microchip covered in ice crystals."
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 42.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1986: The Hidden Resurrection'"
+  },
+  {
+    "start_sec": 42.0,
+    "end_sec": 48.0,
+    "source": "graphic",
+    "file": "23_young_scientist_retro.jpg",
+    "note": "Young scientist working in front of retro CRT terminal (Geoff Hinton era)."
+  },
+  {
+    "start_sec": 48.0,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "24_deep_neural_network.jpg",
+    "note": "Multi-layer deep neural network glowing architecture diagram."
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 60.0,
+    "source": "graphic",
+    "file": "25_backprop_equations.jpg",
+    "note": "Glowing backpropagation calculus formulas."
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 66.0,
+    "source": "graphic",
+    "file": "26_backwards_error_flow.jpg",
+    "note": "Arrows of light flowing backwards through neural circuits (error adjustment)."
+  },
+  {
+    "start_sec": 66.0,
+    "end_sec": 71.0,
+    "source": "graphic",
+    "file": "27_multilayer_network_xor.jpg",
+    "note": "Infographic showing curved decision boundary successfully solving XOR."
+  },
+  {
+    "start_sec": 71.0,
+    "end_sec": 76.0,
+    "source": "graphic",
+    "file": "28_melting_microchip.jpg",
+    "note": "Ice melting off a microchip, revealing glowing golden circuits underneath."
+  },
+  {
+    "start_sec": 76.0,
+    "end_sec": 81.0,
+    "source": "graphic",
+    "file": "24_deep_neural_network.jpg",
+    "note": "Sleek glowing neural net representing the gateway of deep learning."
+  },
+  {
+    "start_sec": 81.0,
+    "end_sec": 86.17,
+    "source": "graphic",
+    "file": "text",
+    "note": "Final punchline slide: 'แคลคูลัสและทฤษฎีเก่าร้อยปี คือประตูปัญญาประดิษฐ์ที่ถูกเปิดขึ้นมาใหม่'"
+  }
+]

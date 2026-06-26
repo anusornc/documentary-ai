@@ -1,0 +1,17 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:05:00,0,5,5,graphic,history-ai-math-to-model/ep3/text,Title slide: 'เมื่อกิกะวัตต์ ปลุกชีพสมการร้อยปี'
+2,00:00:05:00,00:00:10:00,5,10,5,graphic,history-ai-math-to-model/ep3/33_modern_data_center.jpg,A modern data center representing high-performance compute nodes.
+3,00:00:10:00,00:00:15:00,10,15,5,graphic,history-ai-math-to-model/ep3/34_deep_neural_network.jpg,A complex multi-layer deep neural network architecture diagram.
+4,00:00:15:00,00:00:21:00,15,21,6,graphic,history-ai-math-to-model/ep3/35_matrix_waterfall_math.jpg,"Numbers and equations streaming like a matrix waterfall, representing large datasets."
+5,00:00:21:00,00:00:26:00,21,26,5,graphic,history-ai-math-to-model/ep3/text,Text slide: 'ชิปการ์ดจอ และ ข้อมูลมหาศาล'
+6,00:00:26:00,00:00:31:00,26,31,5,graphic,history-ai-math-to-model/ep3/37_melting_microchip.jpg,A microchip with glowing circuits representing computational power.
+7,00:00:31:00,00:00:36:00,31,36,5,graphic,history-ai-math-to-model/ep3/38_young_scientist_retro.jpg,A vintage lab showing researchers coding parallel computation algorithms.
+8,00:00:36:00,00:00:42:00,36,42,6,graphic,history-ai-math-to-model/ep3/39_mark_perceptron_computer.jpg,"The giant room-sized Mark I Perceptron electromechanical rack, showing early hardware."
+9,00:00:42:00,00:00:47:00,42,47,5,graphic,history-ai-math-to-model/ep3/text,Text slide: '2012: The GPU Revolution'
+10,00:00:47:00,00:00:53:00,47,53,6,graphic,history-ai-math-to-model/ep3/41_motorized_potentiometer_gears.jpg,"Motors and analog gears rotating, representing physical computation scaling to digital chips."
+11,00:00:53:00,00:00:59:00,53,59,6,graphic,history-ai-math-to-model/ep3/42_backprop_equations.jpg,Partial derivative backpropagation equations flowing on-screen.
+12,00:00:59:00,00:01:05:00,59,65,6,graphic,history-ai-math-to-model/ep3/text,Text slide: '2017: Attention Is All You Need'
+13,00:01:05:00,00:01:10:00,65,70,5,graphic,history-ai-math-to-model/ep3/44_deep_neural_network.jpg,A multi-layer neural network layout showing inputs processed in parallel.
+14,00:01:10:00,00:01:16:00,70,76,6,graphic,history-ai-math-to-model/ep3/45_backwards_error_flow.jpg,Glowing light pulses traveling backward through neural node lines.
+15,00:01:16:00,00:01:21:00,76,81,5,graphic,history-ai-math-to-model/ep3/46_modern_data_center.jpg,Modern cloud server arrays rendering under bright blue/purple LED lights.
+16,00:01:21:00,00:01:26:27,81,86.9,5.9,graphic,history-ai-math-to-model/ep3/text,Final punchline slide: 'เมื่อสมการเก่าแก่... พบกับพลังไฟฟ้าระดับกิกะวัตต์'

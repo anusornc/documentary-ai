@@ -1,0 +1,121 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 6.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Title slide: 'ประวัติศาสตร์คอมพิวเตอร์ จากฟันเฟืองสู่ชิปซิลิคอน'"
+  },
+  {
+    "start_sec": 6.0,
+    "end_sec": 12.0,
+    "source": "graphic",
+    "file": "2_mark_perceptron_computer.jpg",
+    "note": "A massive historical vacuum-tube or mechanical compute rack representing early machines."
+  },
+  {
+    "start_sec": 12.0,
+    "end_sec": 18.0,
+    "source": "graphic",
+    "file": "3_motorized_potentiometer_gears.jpg",
+    "note": "Close-up of mechanical copper coils and gears turning, representing Babbage's mechanical designs."
+  },
+  {
+    "start_sec": 18.0,
+    "end_sec": 24.0,
+    "source": "graphic",
+    "file": "4_walter_pitts_chalkboard.jpg",
+    "note": "Mathematical logic blackboard diagrams representing Ada Lovelace's algorithms."
+  },
+  {
+    "start_sec": 24.0,
+    "end_sec": 29.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1837: เครื่องกลวิเคราะห์คณิตศาสตร์'"
+  },
+  {
+    "start_sec": 29.0,
+    "end_sec": 35.0,
+    "source": "graphic",
+    "file": "6_mark_perceptron_computer.jpg",
+    "note": "Room-sized electrical patchboards and dials representing ENIAC's immense scale."
+  },
+  {
+    "start_sec": 35.0,
+    "end_sec": 41.0,
+    "source": "graphic",
+    "file": "7_abandoned_lab_winter.jpg",
+    "note": "Retro 1950s/60s server lab setting, showing physical racks."
+  },
+  {
+    "start_sec": 41.0,
+    "end_sec": 46.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1945: ยักษ์ใหญ่ ENIAC หนัก 27 ตัน'"
+  },
+  {
+    "start_sec": 46.0,
+    "end_sec": 52.0,
+    "source": "graphic",
+    "file": "9_young_scientist_retro.jpg",
+    "note": "Young researcher operating front-panel buttons of a vintage mainframe computer."
+  },
+  {
+    "start_sec": 52.0,
+    "end_sec": 58.0,
+    "source": "graphic",
+    "file": "10_melting_microchip.jpg",
+    "note": "A glowing microchip or early electronic circuit, showing transistors."
+  },
+  {
+    "start_sec": 58.0,
+    "end_sec": 63.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1947: ทรานซิสเตอร์ปฏิวัติวงการ'"
+  },
+  {
+    "start_sec": 63.0,
+    "end_sec": 69.0,
+    "source": "graphic",
+    "file": "12_melting_microchip.jpg",
+    "note": "Close-up detail of golden circuits on a silicon wafer."
+  },
+  {
+    "start_sec": 69.0,
+    "end_sec": 75.0,
+    "source": "graphic",
+    "file": "13_deep_neural_network.jpg",
+    "note": "Complex logic gate patterns on microchip scale."
+  },
+  {
+    "start_sec": 75.0,
+    "end_sec": 80.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '1958: ไมโครชิป แผ่นซิลิคอนจิ๋ว'"
+  },
+  {
+    "start_sec": 80.0,
+    "end_sec": 86.0,
+    "source": "graphic",
+    "file": "15_modern_data_center.jpg",
+    "note": "High-tech server room with blue and purple LED arrays representing modern cloud infrastructure."
+  },
+  {
+    "start_sec": 86.0,
+    "end_sec": 92.0,
+    "source": "graphic",
+    "file": "16_matrix_waterfall_math.jpg",
+    "note": "Digital information code cascading like a waterfall, representing pocket smartphone power."
+  },
+  {
+    "start_sec": 92.0,
+    "end_sec": 100.97,
+    "source": "graphic",
+    "file": "text",
+    "note": "Final punchline slide: 'คอมพิวเตอร์ไม่ได้แค่ย่อขนาดลง แต่มันกำลังขยายจินตนาการมนุษย์'"
+  }
+]

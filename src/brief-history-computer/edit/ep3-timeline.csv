@@ -1,0 +1,16 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:06:00,0,6,6,graphic,brief-history-computer/ep3/text,Title slide: 'ยุคพกพา และคลาวด์อัจฉริยะ'
+2,00:00:06:00,00:00:11:00,6,11,5,graphic,brief-history-computer/ep3/34_matrix_waterfall_math.jpg,A glowing waterfall of code numbers representing high computational density in mobile devices.
+3,00:00:11:00,00:00:17:00,11,17,6,graphic,brief-history-computer/ep3/35_deep_neural_network.jpg,A layout of deep learning micro-architectures.
+4,00:00:17:00,00:00:22:00,17,22,5,graphic,brief-history-computer/ep3/36_young_scientist_retro.jpg,A researcher designing modern layout formats.
+5,00:00:22:00,00:00:27:00,22,27,5,graphic,brief-history-computer/ep3/text,Text slide: '2007: iPhone ปฏิวัติหน้าจอสัมผัส'
+6,00:00:27:00,00:00:33:00,27,33,6,graphic,brief-history-computer/ep3/38_modern_data_center.jpg,"Cloud compute nodes with purple/blue LED lights, representing AWS servers."
+7,00:00:33:00,00:00:38:00,33,38,5,graphic,brief-history-computer/ep3/39_matrix_waterfall_math.jpg,Streaming numbers representing data transactions flowing to and from the cloud.
+8,00:00:38:00,00:00:43:00,38,43,5,graphic,brief-history-computer/ep3/text,Text slide: '2006: การถือกำเนิดของบริการคลาวด์'
+9,00:00:43:00,00:00:49:00,43,49,6,graphic,brief-history-computer/ep3/41_modern_data_center.jpg,Server racks housing processing nodes.
+10,00:00:49:00,00:00:54:00,49,54,5,graphic,brief-history-computer/ep3/42_melting_microchip.jpg,Microchip hardware structures used for GPU processing.
+11,00:00:54:00,00:00:59:00,54,59,5,graphic,brief-history-computer/ep3/text,Text slide: '2010s-2020s: จีพียู และ การเรียนรู้ของจักรกล'
+12,00:00:59:00,00:01:05:00,59,65,6,graphic,brief-history-computer/ep3/44_deep_neural_network.jpg,A complex deep neural network graph layout.
+13,00:01:05:00,00:01:10:00,65,70,5,graphic,brief-history-computer/ep3/45_matrix_waterfall_math.jpg,"Numbers flowing, representing the massive data used to train AI models."
+14,00:01:10:00,00:01:15:00,70,75,5,graphic,brief-history-computer/ep3/text,Text slide: 'ชิปการ์ดจอประมวลผลคู่ขนาน คีย์สำคัญในการคิด'
+15,00:01:15:00,00:01:23:21,75,83.7,8.7,graphic,brief-history-computer/ep3/text,Final punchline slide: 'เราได้เปลี่ยนคอมพิวเตอร์ จากเครื่องช่วยคำนวณ ไปสู่คู่คิดทางปัญญา'

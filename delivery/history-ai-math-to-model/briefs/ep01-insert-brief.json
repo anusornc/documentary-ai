@@ -1,0 +1,107 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 5.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text graphic showing: 'ต้นกำเนิด AI จากเด็กหนุ่มไร้บ้าน' with slow zoom-in on paper textures."
+  },
+  {
+    "start_sec": 5.0,
+    "end_sec": 10.0,
+    "source": "graphic",
+    "file": "2_walter_pitts_chalkboard.jpg",
+    "note": "Historical photo of Walter Pitts and Warren McCulloch overlayed on mathematical sketches."
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 15.0,
+    "source": "graphic",
+    "file": "3_logic_neuron_graphic.jpg",
+    "note": "Animation showing biological neuron firing and turning into a simple binary AND logic gate."
+  },
+  {
+    "start_sec": 15.0,
+    "end_sec": 20.0,
+    "source": "graphic",
+    "file": "4_frank_rosenblatt_lab.jpg",
+    "note": "Archival photo or video of Frank Rosenblatt pointing at blackboards or paper charts."
+  },
+  {
+    "start_sec": 20.0,
+    "end_sec": 25.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Typography overlay: 'NO CODE' with glitch effects over analog electronics background."
+  },
+  {
+    "start_sec": 25.0,
+    "end_sec": 30.0,
+    "source": "graphic",
+    "file": "6_mark_perceptron_computer.jpg",
+    "note": "Pan across the massive electromechanical racks of the Mark I Perceptron."
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 35.0,
+    "source": "generative",
+    "file": "7_motorized_potentiometer_gears.jpg",
+    "note": "Close-up macro shot of copper wire coils and small motors rotating analog dials and gears."
+  },
+  {
+    "start_sec": 35.0,
+    "end_sec": 41.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Graphic text overlay: '1969: The Death of AI' with fading timeline animation."
+  },
+  {
+    "start_sec": 41.0,
+    "end_sec": 47.0,
+    "source": "graphic",
+    "file": "9_xor_logic_failure.jpg",
+    "note": "Mathematical graph showing 4 dots (2 red, 2 blue) crossed, showing that a single straight line cannot separate them (XOR problem)."
+  },
+  {
+    "start_sec": 47.0,
+    "end_sec": 53.0,
+    "source": "graphic",
+    "file": "10_ai_winter_freeze.jpg",
+    "note": "Artistic shot of cold, snowy university buildings or frosted microchips to represent the first AI Winter."
+  },
+  {
+    "start_sec": 53.0,
+    "end_sec": 59.0,
+    "source": "graphic",
+    "file": "11_backprop_equations.jpg",
+    "note": "Mathematical equations of partial derivatives and chain rule flying forward in glowing white lines."
+  },
+  {
+    "start_sec": 59.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "12_multilayer_network_xor.jpg",
+    "note": "Diagram showing a multi-layer neural network adjusting weights, drawing a curved decision boundary to successfully classify XOR."
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "13_modern_data_center.jpg",
+    "note": "Quick camera sweep through a glowing, high-tech modern AI data center with blue/purple LED lights."
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 75.0,
+    "source": "generative",
+    "file": "14_matrix_waterfall_math.jpg",
+    "note": "Dynamic visualization of massive numbers and matrix multiplications flowing on screen like a waterfall of light."
+  },
+  {
+    "start_sec": 75.0,
+    "end_sec": 80.73,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text graphic overlay of the final punchline with fading cinematic glow, showing the title 'จากสมการ สู่โมเดล'."
+  }
+]

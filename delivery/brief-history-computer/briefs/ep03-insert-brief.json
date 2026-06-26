@@ -1,0 +1,107 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 6.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Title slide: 'ยุคพกพา และคลาวด์อัจฉริยะ'"
+  },
+  {
+    "start_sec": 6.0,
+    "end_sec": 11.0,
+    "source": "graphic",
+    "file": "34_matrix_waterfall_math.jpg",
+    "note": "A glowing waterfall of code numbers representing high computational density in mobile devices."
+  },
+  {
+    "start_sec": 11.0,
+    "end_sec": 17.0,
+    "source": "graphic",
+    "file": "35_deep_neural_network.jpg",
+    "note": "A layout of deep learning micro-architectures."
+  },
+  {
+    "start_sec": 17.0,
+    "end_sec": 22.0,
+    "source": "graphic",
+    "file": "36_young_scientist_retro.jpg",
+    "note": "A researcher designing modern layout formats."
+  },
+  {
+    "start_sec": 22.0,
+    "end_sec": 27.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '2007: iPhone ปฏิวัติหน้าจอสัมผัส'"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 33.0,
+    "source": "graphic",
+    "file": "38_modern_data_center.jpg",
+    "note": "Cloud compute nodes with purple/blue LED lights, representing AWS servers."
+  },
+  {
+    "start_sec": 33.0,
+    "end_sec": 38.0,
+    "source": "graphic",
+    "file": "39_matrix_waterfall_math.jpg",
+    "note": "Streaming numbers representing data transactions flowing to and from the cloud."
+  },
+  {
+    "start_sec": 38.0,
+    "end_sec": 43.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '2006: การถือกำเนิดของบริการคลาวด์'"
+  },
+  {
+    "start_sec": 43.0,
+    "end_sec": 49.0,
+    "source": "graphic",
+    "file": "41_modern_data_center.jpg",
+    "note": "Server racks housing processing nodes."
+  },
+  {
+    "start_sec": 49.0,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "42_melting_microchip.jpg",
+    "note": "Microchip hardware structures used for GPU processing."
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 59.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '2010s-2020s: จีพียู และ การเรียนรู้ของจักรกล'"
+  },
+  {
+    "start_sec": 59.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "44_deep_neural_network.jpg",
+    "note": "A complex deep neural network graph layout."
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "45_matrix_waterfall_math.jpg",
+    "note": "Numbers flowing, representing the massive data used to train AI models."
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 75.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: 'ชิปการ์ดจอประมวลผลคู่ขนาน คีย์สำคัญในการคิด'"
+  },
+  {
+    "start_sec": 75.0,
+    "end_sec": 83.7,
+    "source": "graphic",
+    "file": "text",
+    "note": "Final punchline slide: 'เราได้เปลี่ยนคอมพิวเตอร์ จากเครื่องช่วยคำนวณ ไปสู่คู่คิดทางปัญญา'"
+  }
+]

@@ -1,0 +1,17 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:05:00,0,5,5,graphic,history-ai-math-to-model/ep2/text,Title slide: '1969: ยุคมืด ของ AI และปาฏิหาริย์ แบคพรอพพาเกชัน'
+2,00:00:05:00,00:00:10:00,5,10,5,graphic,history-ai-math-to-model/ep2/16_minsky_perceptrons_book.jpg,Vintage book cover of Perceptrons by Marvin Minsky on desk.
+3,00:00:10:00,00:00:15:00,10,15,5,graphic,history-ai-math-to-model/ep2/17_xor_logic_failure.jpg,Mathematical XOR linear separation failure graph.
+4,00:00:15:00,00:00:20:00,15,20,5,graphic,history-ai-math-to-model/ep2/18_hand_drawing_line_failure.jpg,Hand drawing a chalk line failing to separate diagonal points on blackboard.
+5,00:00:20:00,00:00:25:00,20,25,5,graphic,history-ai-math-to-model/ep2/text,Text slide: 'NO CODE / ไม่มีโค้ดสักบรรทัดเดียว'
+6,00:00:25:00,00:00:31:00,25,31,6,graphic,history-ai-math-to-model/ep2/20_abandoned_lab_winter.jpg,Abandoned 1970s computer lab showing the start of AI winter.
+7,00:00:31:00,00:00:36:00,31,36,5,graphic,history-ai-math-to-model/ep2/21_ai_winter_freeze.jpg,Frosted microchip covered in ice crystals.
+8,00:00:36:00,00:00:42:00,36,42,6,graphic,history-ai-math-to-model/ep2/text,Text slide: '1986: The Hidden Resurrection'
+9,00:00:42:00,00:00:48:00,42,48,6,graphic,history-ai-math-to-model/ep2/23_young_scientist_retro.jpg,Young scientist working in front of retro CRT terminal (Geoff Hinton era).
+10,00:00:48:00,00:00:54:00,48,54,6,graphic,history-ai-math-to-model/ep2/24_deep_neural_network.jpg,Multi-layer deep neural network glowing architecture diagram.
+11,00:00:54:00,00:01:00:00,54,60,6,graphic,history-ai-math-to-model/ep2/25_backprop_equations.jpg,Glowing backpropagation calculus formulas.
+12,00:01:00:00,00:01:06:00,60,66,6,graphic,history-ai-math-to-model/ep2/26_backwards_error_flow.jpg,Arrows of light flowing backwards through neural circuits (error adjustment).
+13,00:01:06:00,00:01:11:00,66,71,5,graphic,history-ai-math-to-model/ep2/27_multilayer_network_xor.jpg,Infographic showing curved decision boundary successfully solving XOR.
+14,00:01:11:00,00:01:16:00,71,76,5,graphic,history-ai-math-to-model/ep2/28_melting_microchip.jpg,"Ice melting off a microchip, revealing glowing golden circuits underneath."
+15,00:01:16:00,00:01:21:00,76,81,5,graphic,history-ai-math-to-model/ep2/24_deep_neural_network.jpg,Sleek glowing neural net representing the gateway of deep learning.
+16,00:01:21:00,00:01:26:05,81,86.17,5.17,graphic,history-ai-math-to-model/ep2/text,Final punchline slide: 'แคลคูลัสและทฤษฎีเก่าร้อยปี คือประตูปัญญาประดิษฐ์ที่ถูกเปิดขึ้นมาใหม่'

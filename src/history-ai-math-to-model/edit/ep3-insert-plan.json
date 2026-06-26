@@ -1,0 +1,114 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 5.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Title slide: 'เมื่อกิกะวัตต์ ปลุกชีพสมการร้อยปี'"
+  },
+  {
+    "start_sec": 5.0,
+    "end_sec": 10.0,
+    "source": "graphic",
+    "file": "33_modern_data_center.jpg",
+    "note": "A modern data center representing high-performance compute nodes."
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 15.0,
+    "source": "graphic",
+    "file": "34_deep_neural_network.jpg",
+    "note": "A complex multi-layer deep neural network architecture diagram."
+  },
+  {
+    "start_sec": 15.0,
+    "end_sec": 21.0,
+    "source": "graphic",
+    "file": "35_matrix_waterfall_math.jpg",
+    "note": "Numbers and equations streaming like a matrix waterfall, representing large datasets."
+  },
+  {
+    "start_sec": 21.0,
+    "end_sec": 26.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: 'ชิปการ์ดจอ และ ข้อมูลมหาศาล'"
+  },
+  {
+    "start_sec": 26.0,
+    "end_sec": 31.0,
+    "source": "graphic",
+    "file": "37_melting_microchip.jpg",
+    "note": "A microchip with glowing circuits representing computational power."
+  },
+  {
+    "start_sec": 31.0,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "38_young_scientist_retro.jpg",
+    "note": "A vintage lab showing researchers coding parallel computation algorithms."
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 42.0,
+    "source": "graphic",
+    "file": "39_mark_perceptron_computer.jpg",
+    "note": "The giant room-sized Mark I Perceptron electromechanical rack, showing early hardware."
+  },
+  {
+    "start_sec": 42.0,
+    "end_sec": 47.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '2012: The GPU Revolution'"
+  },
+  {
+    "start_sec": 47.0,
+    "end_sec": 53.0,
+    "source": "graphic",
+    "file": "41_motorized_potentiometer_gears.jpg",
+    "note": "Motors and analog gears rotating, representing physical computation scaling to digital chips."
+  },
+  {
+    "start_sec": 53.0,
+    "end_sec": 59.0,
+    "source": "graphic",
+    "file": "42_backprop_equations.jpg",
+    "note": "Partial derivative backpropagation equations flowing on-screen."
+  },
+  {
+    "start_sec": 59.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "text",
+    "note": "Text slide: '2017: Attention Is All You Need'"
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "44_deep_neural_network.jpg",
+    "note": "A multi-layer neural network layout showing inputs processed in parallel."
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 76.0,
+    "source": "graphic",
+    "file": "45_backwards_error_flow.jpg",
+    "note": "Glowing light pulses traveling backward through neural node lines."
+  },
+  {
+    "start_sec": 76.0,
+    "end_sec": 81.0,
+    "source": "graphic",
+    "file": "46_modern_data_center.jpg",
+    "note": "Modern cloud server arrays rendering under bright blue/purple LED lights."
+  },
+  {
+    "start_sec": 81.0,
+    "end_sec": 86.9,
+    "source": "graphic",
+    "file": "text",
+    "note": "Final punchline slide: 'เมื่อสมการเก่าแก่... พบกับพลังไฟฟ้าระดับกิกะวัตต์'"
+  }
+]

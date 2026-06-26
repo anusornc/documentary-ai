@@ -1,0 +1,23 @@
+{
+  "ep1": {
+    "file": "ep1.mp3",
+    "audioSec": 100.16,
+    "audioFrames": 3005,
+    "sceneFrames": 3029,
+    "targetSec": 100.97
+  },
+  "ep2": {
+    "file": "ep2.mp3",
+    "audioSec": 82.48,
+    "audioFrames": 2475,
+    "sceneFrames": 2499,
+    "targetSec": 83.3
+  },
+  "ep3": {
+    "file": "ep3.mp3",
+    "audioSec": 82.88,
+    "audioFrames": 2487,
+    "sceneFrames": 2511,
+    "targetSec": 83.7
+  }
+}

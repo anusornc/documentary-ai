@@ -1,0 +1,11 @@
+# Sensitive files
+.env
+
+# OS files
+.DS_Store
+Thumps.db
+
+# Temp scratch files
+scratch/resized_*
+scratch/padded_audio_*
+scratch/concat_*

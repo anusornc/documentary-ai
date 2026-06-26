@@ -1,0 +1,138 @@
+{
+  "format": "hearyourvoice-deliverable",
+  "formatVersion": 1,
+  "slug": "brief-history-computer",
+  "title": "brief-history-computer",
+  "video": {
+    "aspect": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "generatedAt": "2026-06-26T15:09:39.070Z",
+  "status": "ready",
+  "summary": {
+    "episodes": 3,
+    "ready": 3,
+    "incomplete": 0
+  },
+  "artifacts": {
+    "voiceover_v1": "script/voiceover-v1.md",
+    "script_v1": "script/script-v1.md",
+    "shotlist": null,
+    "attribution": null
+  },
+  "episodes": [
+    {
+      "id": "ep1",
+      "title": "",
+      "voiceFile": "voiceover/ep01.mp3",
+      "voiceSec": 100.16,
+      "targetSec": 100.97,
+      "durationInFrames": 3029,
+      "insertCount": 17,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 17
+      },
+      "brief": "briefs/ep01-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-computer-ep01.mp4",
+        "exists": true,
+        "durationSec": 100.97,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 100.97,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep2",
+      "title": "",
+      "voiceFile": "voiceover/ep02.mp3",
+      "voiceSec": 82.48,
+      "targetSec": 83.3,
+      "durationInFrames": 2499,
+      "insertCount": 15,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 15
+      },
+      "brief": "briefs/ep02-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-computer-ep02.mp4",
+        "exists": true,
+        "durationSec": 83.3,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 83.3,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep3",
+      "title": "",
+      "voiceFile": "voiceover/ep03.mp3",
+      "voiceSec": 82.88,
+      "targetSec": 83.7,
+      "durationInFrames": 2511,
+      "insertCount": 15,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 15
+      },
+      "brief": "briefs/ep03-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-computer-ep03.mp4",
+        "exists": true,
+        "durationSec": 83.7,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 83.7,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    }
+  ],
+  "series": {
+    "exists": false
+  }
+}
