@@ -4,6 +4,20 @@ This workspace is set up to generate, script, compile, and package short vertica
 
 ---
 
+## ⚙️ Setup & Installation
+
+Before running any pipeline commands, clone the core `HearYourVOICE` skill package containing the utility scripts into your local Gemini configuration directory:
+
+```bash
+# Create the skills directory if it doesn't exist
+mkdir -p ~/.gemini/config/skills
+
+# Clone the HearYourVOICE skill repository
+git clone https://github.com/anusornc/HearYourVOICE ~/.gemini/config/skills/hearyourvoice
+```
+
+---
+
 ## 📂 Project Structures
 *   `src/` — Contains research, script drafts, and edit timelines for each video series.
 *   `public/` — Contains generated narration audio (ElevenLabs) and image/text assets.
