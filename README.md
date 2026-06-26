@@ -31,29 +31,29 @@ node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/gen-voi
 ### Step 3: Measure Audio Durations
 Extracts timings from the narration MP3s and writes them to `voiceover-durations.json`:
 ```bash
-node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/measure-voiceover.mjs" --dir public/<project-slug>/voiceover --out src/<project-slug>/voiceover-durations.json
+node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/measure-voiceover.mjs" --dir "/Users/anusornchaikaew/Work/Train/AI_voice/public/<project-slug>/voiceover" --out "/Users/anusornchaikaew/Work/Train/AI_voice/src/<project-slug>/voiceover-durations.json"
 ```
 
 ### Step 4: Export Timeline
 After creating your visual mapping brief in `src/<project-slug>/edit/ep1-insert-plan.json`, export the contiguous NLE timeline:
 ```bash
-node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/export-timeline.mjs" --slug <project-slug> --episode ep1 --brief src/<project-slug>/edit/ep1-insert-plan.json --durations src/<project-slug>/voiceover-durations.json
+node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/export-timeline.mjs" --slug <project-slug> --episode ep1 --brief "/Users/anusornchaikaew/Work/Train/AI_voice/src/<project-slug>/edit/ep1-insert-plan.json" --durations "/Users/anusornchaikaew/Work/Train/AI_voice/src/<project-slug>/voiceover-durations.json"
 ```
 
 ### Step 5: Compile Video
 Stitches visual assets, generates text slides dynamically, pads audio with silence, and outputs the final MP4:
 ```bash
-python3 scratch/compile_video.py --slug <project-slug> --episode ep1
+python3 "/Users/anusornchaikaew/Work/Train/AI_voice/scratch/compile_video.py" --slug <project-slug> --episode ep1
 ```
 
 ### Step 6: Package Delivery
 Copies the final assets (briefs, audio, videos) and generates the delivery `manifest.json`:
 ```bash
 # 1. Copy compiled video into the main out/ folder
-cp out/<project-slug>/ep1.mp4 out/<project-slug>-ep01.mp4
+cp "/Users/anusornchaikaew/Work/Train/AI_voice/out/<project-slug>/ep1.mp4" "/Users/anusornchaikaew/Work/Train/AI_voice/out/<project-slug>-ep01.mp4"
 
 # 2. Copy the insert plan to the veo/ folder
-cp src/<project-slug>/edit/ep1-insert-plan.json src/<project-slug>/veo/ep1-insert-brief.json
+cp "/Users/anusornchaikaew/Work/Train/AI_voice/src/<project-slug>/edit/ep1-insert-plan.json" "/Users/anusornchaikaew/Work/Train/AI_voice/src/<project-slug>/veo/ep1-insert-brief.json"
 
 # 3. Package
 node "/Users/anusornchaikaew/.gemini/config/skills/hearyourvoice/scripts/package-delivery.mjs" --slug <project-slug>
