@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 4.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["กติกาใหม่และการคำนวณอนาคต", "", "จากโคชี สู่ปัญญาประดิษฐ์ยุคคลาวด์"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 4.5,
+    "end_sec": 9.0,
+    "source": "graphic",
+    "file": "infinitesimal_ghosts.jpg",
+    "note": "Floating ghosts of departed quantities"
+  },
+  {
+    "start_sec": 9.0,
+    "end_sec": 13.5,
+    "source": "graphic",
+    "file": "epsilon_delta_limit.jpg",
+    "note": "Epsilon-delta limit definition diagram"
+  },
+  {
+    "start_sec": 13.5,
+    "end_sec": 18.0,
+    "source": "graphic",
+    "file": "infinitesimal_ghosts.jpg",
+    "note": "Misty library floating symbols"
+  },
+  {
+    "start_sec": 18.0,
+    "end_sec": 22.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["วิญญาณของปริมาณที่ล่วงลับ", "", "ความย้อนแย้งของการหารด้วยศูนย์"],
+    "note": "Text slide on infinitesimals logic"
+  },
+  {
+    "start_sec": 22.5,
+    "end_sec": 27.0,
+    "source": "graphic",
+    "file": "infinitesimal_ghosts.jpg",
+    "note": "Gothic library candle and floating equations"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 31.5,
+    "source": "graphic",
+    "file": "epsilon_delta_limit.jpg",
+    "note": "Epsilon and delta bounds coordinate grid"
+  },
+  {
+    "start_sec": 31.5,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ขีดจำกัดที่สมบูรณ์", "", "สถาปนา ลิมิต (Limit) โดย โคชี และ ไวเออร์สตราส"],
+    "note": "Text slide on Weierstrass formalization"
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 40.5,
+    "source": "graphic",
+    "file": "epsilon_delta_limit.jpg",
+    "note": "Epsilon delta formal logic inequalities"
+  },
+  {
+    "start_sec": 40.5,
+    "end_sec": 45.0,
+    "source": "graphic",
+    "file": "neural_network_gradients.jpg",
+    "note": "High-tech neural network gradient descent surface"
+  },
+  {
+    "start_sec": 45.0,
+    "end_sec": 49.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["หัวใจของปัญญาประดิษฐ์", "", "การปรับปรุงค่าน้ำหนักผ่านเกรเดียนต์ (Gradients)"],
+    "note": "Text slide on AI backpropagation"
+  },
+  {
+    "start_sec": 49.5,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "neural_network_gradients.jpg",
+    "note": "Gradient descent paths down valleys"
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 58.0,
+    "source": "graphic",
+    "file": "epsilon_delta_limit.jpg",
+    "note": "Limit formalism grid"
+  },
+  {
+    "start_sec": 58.0,
+    "end_sec": 62.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["แคลคูลัสคือภาษา...", "", "ใช้เขียนกฎการเปลี่ยนแปลงของจักรวาล"],
+    "note": "Text slide with final punchline"
+  },
+  {
+    "start_sec": 62.0,
+    "end_sec": 66.93,
+    "source": "graphic",
+    "file": "calculus_universe.jpg",
+    "note": "Abstract glowing futuristic landscape of math pathways"
+  }
+]

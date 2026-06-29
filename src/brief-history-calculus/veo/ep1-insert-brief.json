@@ -1,0 +1,120 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 6.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["เรขาคณิตของการเปลี่ยนแปลง", "", "ต้นกำเนิดและวิธีการอาร์คิมีดีส"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 6.0,
+    "end_sec": 12.0,
+    "source": "graphic",
+    "file": "archimedes_exhaustion.jpg",
+    "note": "Archimedes drawing in sand table"
+  },
+  {
+    "start_sec": 12.0,
+    "end_sec": 18.0,
+    "source": "graphic",
+    "file": "falling_apple_speed.jpg",
+    "note": "Red apple falling with speed vectors"
+  },
+  {
+    "start_sec": 18.0,
+    "end_sec": 24.0,
+    "source": "graphic",
+    "file": "archimedes_exhaustion.jpg",
+    "note": "Archimedes study room candle"
+  },
+  {
+    "start_sec": 24.0,
+    "end_sec": 30.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["อาร์คิมีดีส", "", "วิธีการขจัดเศษ (Method of Exhaustion)"],
+    "note": "Text slide defining Archimedes' method"
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "archimedes_exhaustion.jpg",
+    "note": "Sand table circle polygons"
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 42.0,
+    "source": "graphic",
+    "file": "falling_apple_speed.jpg",
+    "note": "Falling apple under tree branch"
+  },
+  {
+    "start_sec": 42.0,
+    "end_sec": 48.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["การเคลื่อนไหวและการเปลี่ยนแปลง", "", "ปัญหาการหารด้วยศูนย์"],
+    "note": "Text slide on rates of change"
+  },
+  {
+    "start_sec": 48.0,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "newton_plague_isolation.jpg",
+    "note": "Young Isaac Newton at desk in isolation"
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 60.0,
+    "source": "graphic",
+    "file": "falling_apple_speed.jpg",
+    "note": "Apple falling motion blur"
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 66.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["1665: ปีกักตัวของนิวตัน", "", "กำเนิด วิธีการของฟลักชัน (Fluxions)"],
+    "note": "Text slide on Newton's discovery"
+  },
+  {
+    "start_sec": 66.0,
+    "end_sec": 72.0,
+    "source": "graphic",
+    "file": "newton_plague_isolation.jpg",
+    "note": "Newton looking out the window at crescent moon"
+  },
+  {
+    "start_sec": 72.0,
+    "end_sec": 78.0,
+    "source": "graphic",
+    "file": "falling_apple_speed.jpg",
+    "note": "Falling apple close up"
+  },
+  {
+    "start_sec": 78.0,
+    "end_sec": 84.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["แรงโน้มถ่วงและวิถีโคจร", "", "การเปลี่ยนแปลงในชั่วพริบตา"],
+    "note": "Text slide about rates of change"
+  },
+  {
+    "start_sec": 84.0,
+    "end_sec": 90.0,
+    "source": "graphic",
+    "file": "newton_plague_isolation.jpg",
+    "note": "Prisms and mathematical equations on papers"
+  },
+  {
+    "start_sec": 90.0,
+    "end_sec": 95.07,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["แต่นิวตันปิดปากเงียบไม่ยอมตีพิมพ์...", "", "ความเงียบนี้กำลังจะสร้างความขัดแย้ง"],
+    "note": "Final transition text slide"
+  }
+]

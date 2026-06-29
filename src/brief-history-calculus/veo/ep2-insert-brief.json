@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 6.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["สงครามนิยามและสัญลักษณ์", "", "การประดิษฐ์ร่วมของนิวตันและไลบ์นิซ"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 6.0,
+    "end_sec": 12.0,
+    "source": "graphic",
+    "file": "leibniz_portrait.jpg",
+    "note": "Gottfried Wilhelm Leibniz portrait"
+  },
+  {
+    "start_sec": 12.0,
+    "end_sec": 18.0,
+    "source": "graphic",
+    "file": "notation_war.jpg",
+    "note": "Lion and eagle clashing over calculus"
+  },
+  {
+    "start_sec": 18.0,
+    "end_sec": 24.0,
+    "source": "graphic",
+    "file": "leibniz_portrait.jpg",
+    "note": "Leibniz writing with quill"
+  },
+  {
+    "start_sec": 24.0,
+    "end_sec": 30.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["สัญลักษณ์ที่ทรงพลัง", "", "กำเนิดเครื่องหมายอินทิกรัล และดีวายบายดีเอ็กซ์"],
+    "note": "Text slide on Leibniz's notation"
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "leibniz_portrait.jpg",
+    "note": "Neon integral formulas on library backdrop"
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 42.0,
+    "source": "graphic",
+    "file": "notation_war.jpg",
+    "note": "British Royal Society crest vs Continental scrolls"
+  },
+  {
+    "start_sec": 42.0,
+    "end_sec": 48.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ข้อหาคัดลอกผลงาน", "", "การปะทะกันของตระกูลสัญกรณ์"],
+    "note": "Text slide on the controversy"
+  },
+  {
+    "start_sec": 48.0,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "notation_war.jpg",
+    "note": "Sparks flying from math symbols clashing"
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 60.0,
+    "source": "graphic",
+    "file": "leibniz_portrait.jpg",
+    "note": "Leibniz portrait"
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 66.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ชัยชนะของไลบ์นิซ", "", "ภาษาสัญลักษณ์แห่งอนาคต"],
+    "note": "Text slide on notation victory"
+  },
+  {
+    "start_sec": 66.0,
+    "end_sec": 72.0,
+    "source": "graphic",
+    "file": "leibniz_portrait.jpg",
+    "note": "Leibniz at desk"
+  },
+  {
+    "start_sec": 72.0,
+    "end_sec": 78.0,
+    "source": "graphic",
+    "file": "notation_war.jpg",
+    "note": "Lion and eagle battle"
+  },
+  {
+    "start_sec": 78.0,
+    "end_sec": 83.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["สงครามจบลง...", "", "แต่ปัญหาทางตรรกะยังคงอยู่"],
+    "note": "Transition text slide to EP3"
+  },
+  {
+    "start_sec": 83.0,
+    "end_sec": 87.07,
+    "source": "graphic",
+    "file": "infinitesimal_ghosts.jpg",
+    "note": "Misty library backdrop with floating symbols"
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "format": "hearyourvoice-deliverable",
+  "formatVersion": 1,
+  "slug": "brief-history-calculus",
+  "title": "brief-history-calculus",
+  "video": {
+    "aspect": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "generatedAt": "2026-06-29T14:15:56.980Z",
+  "status": "ready",
+  "summary": {
+    "episodes": 3,
+    "ready": 3,
+    "incomplete": 0
+  },
+  "artifacts": {
+    "voiceover_v1": "script/voiceover-v1.md",
+    "script_v1": "script/script-v1.md",
+    "shotlist": null,
+    "attribution": null
+  },
+  "episodes": [
+    {
+      "id": "ep1",
+      "title": "",
+      "voiceFile": "voiceover/ep01.mp3",
+      "voiceSec": 94.26,
+      "targetSec": 95.07,
+      "durationInFrames": 2852,
+      "insertCount": 16,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 16
+      },
+      "brief": "briefs/ep01-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-calculus-ep01.mp4",
+        "exists": true,
+        "durationSec": 95.07,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 95.07,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep2",
+      "title": "",
+      "voiceFile": "voiceover/ep02.mp3",
+      "voiceSec": 86.23,
+      "targetSec": 87.07,
+      "durationInFrames": 2612,
+      "insertCount": 15,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 15
+      },
+      "brief": "briefs/ep02-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-calculus-ep02.mp4",
+        "exists": true,
+        "durationSec": 87.07,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 87.07,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "id": "ep3",
+      "title": "",
+      "voiceFile": "voiceover/ep03.mp3",
+      "voiceSec": 66.1,
+      "targetSec": 66.93,
+      "durationInFrames": 2008,
+      "insertCount": 15,
+      "sources": {
+        "generative": 0,
+        "cc": 0,
+        "shot": 0,
+        "graphic": 15
+      },
+      "brief": "briefs/ep03-insert-brief.json",
+      "render": {
+        "file": "video/brief-history-calculus-ep03.mp4",
+        "exists": true,
+        "durationSec": 66.93,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "audioSec": 66.93,
+        "hasAudio": true
+      },
+      "checks": {
+        "contiguous": true,
+        "endMatchesTarget": true,
+        "dimensionsMatch": true,
+        "fpsMatch": true,
+        "durationMatchesTarget": true,
+        "audioMatchesVideo": true
+      },
+      "status": "ready",
+      "issues": []
+    }
+  ],
+  "series": {
+    "exists": false
+  }
+}

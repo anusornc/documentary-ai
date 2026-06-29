@@ -1,0 +1,16 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:04:15,0,4.5,4.5,graphic,brief-history-calculus/ep3/text,Title slide
+2,00:00:04:15,00:00:09:00,4.5,9,4.5,graphic,brief-history-calculus/ep3/infinitesimal_ghosts.jpg,Floating ghosts of departed quantities
+3,00:00:09:00,00:00:13:15,9,13.5,4.5,graphic,brief-history-calculus/ep3/epsilon_delta_limit.jpg,Epsilon-delta limit definition diagram
+4,00:00:13:15,00:00:18:00,13.5,18,4.5,graphic,brief-history-calculus/ep3/infinitesimal_ghosts.jpg,Misty library floating symbols
+5,00:00:18:00,00:00:22:15,18,22.5,4.5,graphic,brief-history-calculus/ep3/text,Text slide on infinitesimals logic
+6,00:00:22:15,00:00:27:00,22.5,27,4.5,graphic,brief-history-calculus/ep3/infinitesimal_ghosts.jpg,Gothic library candle and floating equations
+7,00:00:27:00,00:00:31:15,27,31.5,4.5,graphic,brief-history-calculus/ep3/epsilon_delta_limit.jpg,Epsilon and delta bounds coordinate grid
+8,00:00:31:15,00:00:36:00,31.5,36,4.5,graphic,brief-history-calculus/ep3/text,Text slide on Weierstrass formalization
+9,00:00:36:00,00:00:40:15,36,40.5,4.5,graphic,brief-history-calculus/ep3/epsilon_delta_limit.jpg,Epsilon delta formal logic inequalities
+10,00:00:40:15,00:00:45:00,40.5,45,4.5,graphic,brief-history-calculus/ep3/neural_network_gradients.jpg,High-tech neural network gradient descent surface
+11,00:00:45:00,00:00:49:15,45,49.5,4.5,graphic,brief-history-calculus/ep3/text,Text slide on AI backpropagation
+12,00:00:49:15,00:00:54:00,49.5,54,4.5,graphic,brief-history-calculus/ep3/neural_network_gradients.jpg,Gradient descent paths down valleys
+13,00:00:54:00,00:00:58:00,54,58,4,graphic,brief-history-calculus/ep3/epsilon_delta_limit.jpg,Limit formalism grid
+14,00:00:58:00,00:01:02:00,58,62,4,graphic,brief-history-calculus/ep3/text,Text slide with final punchline
+15,00:01:02:00,00:01:06:28,62,66.93,4.93,graphic,brief-history-calculus/ep3/calculus_universe.jpg,Abstract glowing futuristic landscape of math pathways
