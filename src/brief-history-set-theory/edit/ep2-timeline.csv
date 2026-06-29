@@ -1,0 +1,16 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:05:00,0,5,5,graphic,brief-history-set-theory/ep2/text,Title slide
+2,00:00:05:00,00:00:10:00,5,10,5,graphic,brief-history-set-theory/ep2/russell_portrait.jpg,Bertrand Russell portrait
+3,00:00:10:00,00:00:15:00,10,15,5,graphic,brief-history-set-theory/ep2/frege_devastation.jpg,Gottlob Frege's vintage mathematical study room
+4,00:00:15:00,00:00:20:00,15,20,5,graphic,brief-history-set-theory/ep2/russell_portrait.jpg,Russell looking intense
+5,00:00:20:00,00:00:25:00,20,25,5,graphic,brief-history-set-theory/ep2/text,Text slide about Frege
+6,00:00:25:00,00:00:30:00,25,30,5,graphic,brief-history-set-theory/ep2/frege_devastation.jpg,Frege's desk and books
+7,00:00:30:00,00:00:35:00,30,35,5,graphic,brief-history-set-theory/ep2/russell_portrait.jpg,Russell writing the famous 1901 letter
+8,00:00:35:00,00:00:40:00,35,40,5,graphic,brief-history-set-theory/ep2/text,Text slide defining the paradox
+9,00:00:40:00,00:00:45:00,40,45,5,graphic,brief-history-set-theory/ep2/russell_portrait.jpg,Russell looking intense with logic symbols
+10,00:00:45:00,00:00:50:00,45,50,5,graphic,brief-history-set-theory/ep2/barber_shop.jpg,Surreal barber shop chair
+11,00:00:50:00,00:00:55:00,50,55,5,graphic,brief-history-set-theory/ep2/text,Text slide explaining Barber Paradox
+12,00:00:55:00,00:01:00:00,55,60,5,graphic,brief-history-set-theory/ep2/barber_shop.jpg,Infinite reflections of the barber chair in mirrors
+13,00:01:00:00,00:01:05:00,60,65,5,graphic,brief-history-set-theory/ep2/frege_devastation.jpg,Frege devastated at desk with ink spill
+14,00:01:05:00,00:01:10:00,65,70,5,graphic,brief-history-set-theory/ep2/text,Text slide about math foundations collapsing
+15,00:01:10:00,00:01:15:28,70,75.93,5.93,graphic,brief-history-set-theory/ep2/russell_portrait.jpg,"Russell portrait, transition to ep3"

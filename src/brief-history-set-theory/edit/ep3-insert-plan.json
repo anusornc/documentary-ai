@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 4.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["กติกาใหม่แห่งคณิตศาสตร์", "", "วิถีแห่งแซร์เมโลและเกอเดล"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 4.5,
+    "end_sec": 9.0,
+    "source": "graphic",
+    "file": "zfc_axioms.jpg",
+    "note": "ZFC axioms geometric crystal structure"
+  },
+  {
+    "start_sec": 9.0,
+    "end_sec": 13.5,
+    "source": "graphic",
+    "file": "godel_portrait.jpg",
+    "note": "Kurt Gödel portrait"
+  },
+  {
+    "start_sec": 13.5,
+    "end_sec": 18.0,
+    "source": "graphic",
+    "file": "zfc_axioms.jpg",
+    "note": "ZFC geometric lattice"
+  },
+  {
+    "start_sec": 18.0,
+    "end_sec": 22.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ระบบสัจพจน์ ZFC", "", "แซร์เมโล และ แฟรงเกิล"],
+    "note": "Text slide about Zermelo-Fraenkel axioms"
+  },
+  {
+    "start_sec": 22.5,
+    "end_sec": 27.0,
+    "source": "graphic",
+    "file": "zfc_axioms.jpg",
+    "note": "Axiom cage structure holding math safely"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 31.5,
+    "source": "graphic",
+    "file": "godel_portrait.jpg",
+    "note": "Gödel looking intense"
+  },
+  {
+    "start_sec": 31.5,
+    "end_sec": 36.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ความไม่สมบูรณ์ของเกอเดล", "", "Gödel's Incompleteness Theorem"],
+    "note": "Text slide defining the incompleteness theorem"
+  },
+  {
+    "start_sec": 36.0,
+    "end_sec": 40.5,
+    "source": "graphic",
+    "file": "godel_portrait.jpg",
+    "note": "Logic formulas breaking into dust"
+  },
+  {
+    "start_sec": 40.5,
+    "end_sec": 45.0,
+    "source": "graphic",
+    "file": "math_bedrock.jpg",
+    "note": "Futuristic network of math coding"
+  },
+  {
+    "start_sec": 45.0,
+    "end_sec": 49.5,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ไวยากรณ์ของคณิตศาสตร์", "", "ภาษาแห่งความจริงยุคใหม่"],
+    "note": "Text slide about math syntax"
+  },
+  {
+    "start_sec": 49.5,
+    "end_sec": 54.0,
+    "source": "graphic",
+    "file": "math_bedrock.jpg",
+    "note": "Flowing blue mathematical rivers of code"
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 58.5,
+    "source": "graphic",
+    "file": "zfc_axioms.jpg",
+    "note": "ZFC crystal lattice holding math"
+  },
+  {
+    "start_sec": 58.5,
+    "end_sec": 63.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["เครื่องมือที่ทรงพลังที่สุด", "", "เพื่อการสำรวจดินแดนแห่งปัญญา"],
+    "note": "Text slide with punchline conclusion"
+  },
+  {
+    "start_sec": 63.0,
+    "end_sec": 68.97,
+    "source": "graphic",
+    "file": "math_bedrock.jpg",
+    "note": "Abstract glowing futuristic landscape of math"
+  }
+]

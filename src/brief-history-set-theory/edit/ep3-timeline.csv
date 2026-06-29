@@ -1,0 +1,16 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:04:15,0,4.5,4.5,graphic,brief-history-set-theory/ep3/text,Title slide
+2,00:00:04:15,00:00:09:00,4.5,9,4.5,graphic,brief-history-set-theory/ep3/zfc_axioms.jpg,ZFC axioms geometric crystal structure
+3,00:00:09:00,00:00:13:15,9,13.5,4.5,graphic,brief-history-set-theory/ep3/godel_portrait.jpg,Kurt Gödel portrait
+4,00:00:13:15,00:00:18:00,13.5,18,4.5,graphic,brief-history-set-theory/ep3/zfc_axioms.jpg,ZFC geometric lattice
+5,00:00:18:00,00:00:22:15,18,22.5,4.5,graphic,brief-history-set-theory/ep3/text,Text slide about Zermelo-Fraenkel axioms
+6,00:00:22:15,00:00:27:00,22.5,27,4.5,graphic,brief-history-set-theory/ep3/zfc_axioms.jpg,Axiom cage structure holding math safely
+7,00:00:27:00,00:00:31:15,27,31.5,4.5,graphic,brief-history-set-theory/ep3/godel_portrait.jpg,Gödel looking intense
+8,00:00:31:15,00:00:36:00,31.5,36,4.5,graphic,brief-history-set-theory/ep3/text,Text slide defining the incompleteness theorem
+9,00:00:36:00,00:00:40:15,36,40.5,4.5,graphic,brief-history-set-theory/ep3/godel_portrait.jpg,Logic formulas breaking into dust
+10,00:00:40:15,00:00:45:00,40.5,45,4.5,graphic,brief-history-set-theory/ep3/math_bedrock.jpg,Futuristic network of math coding
+11,00:00:45:00,00:00:49:15,45,49.5,4.5,graphic,brief-history-set-theory/ep3/text,Text slide about math syntax
+12,00:00:49:15,00:00:54:00,49.5,54,4.5,graphic,brief-history-set-theory/ep3/math_bedrock.jpg,Flowing blue mathematical rivers of code
+13,00:00:54:00,00:00:58:15,54,58.5,4.5,graphic,brief-history-set-theory/ep3/zfc_axioms.jpg,ZFC crystal lattice holding math
+14,00:00:58:15,00:01:03:00,58.5,63,4.5,graphic,brief-history-set-theory/ep3/text,Text slide with punchline conclusion
+15,00:01:03:00,00:01:08:29,63,68.97,5.97,graphic,brief-history-set-theory/ep3/math_bedrock.jpg,Abstract glowing futuristic landscape of math

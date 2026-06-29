@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 5.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["วิกฤตแห่งตรรกะ", "", "และปาราด็อกซ์ของรัสเซลล์"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 5.0,
+    "end_sec": 10.0,
+    "source": "graphic",
+    "file": "russell_portrait.jpg",
+    "note": "Bertrand Russell portrait"
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 15.0,
+    "source": "graphic",
+    "file": "frege_devastation.jpg",
+    "note": "Gottlob Frege's vintage mathematical study room"
+  },
+  {
+    "start_sec": 15.0,
+    "end_sec": 20.0,
+    "source": "graphic",
+    "file": "russell_portrait.jpg",
+    "note": "Russell looking intense"
+  },
+  {
+    "start_sec": 20.0,
+    "end_sec": 25.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ก็อตโลบ เฟรเกอ", "", "ความหวังของตรรกะคณิตศาสตร์"],
+    "note": "Text slide about Frege"
+  },
+  {
+    "start_sec": 25.0,
+    "end_sec": 30.0,
+    "source": "graphic",
+    "file": "frege_devastation.jpg",
+    "note": "Frege's desk and books"
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 35.0,
+    "source": "graphic",
+    "file": "russell_portrait.jpg",
+    "note": "Russell writing the famous 1901 letter"
+  },
+  {
+    "start_sec": 35.0,
+    "end_sec": 40.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ปาราด็อกซ์ของรัสเซลล์", "", "คำถามลูปย้อนกลับ"],
+    "note": "Text slide defining the paradox"
+  },
+  {
+    "start_sec": 40.0,
+    "end_sec": 45.0,
+    "source": "graphic",
+    "file": "russell_portrait.jpg",
+    "note": "Russell looking intense with logic symbols"
+  },
+  {
+    "start_sec": 45.0,
+    "end_sec": 50.0,
+    "source": "graphic",
+    "file": "barber_shop.jpg",
+    "note": "Surreal barber shop chair"
+  },
+  {
+    "start_sec": 50.0,
+    "end_sec": 55.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ช่างตัดผมผู้ย้อนแย้ง", "", "โกนหนวดให้ตัวเองไหม?"],
+    "note": "Text slide explaining Barber Paradox"
+  },
+  {
+    "start_sec": 55.0,
+    "end_sec": 60.0,
+    "source": "graphic",
+    "file": "barber_shop.jpg",
+    "note": "Infinite reflections of the barber chair in mirrors"
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "frege_devastation.jpg",
+    "note": "Frege devastated at desk with ink spill"
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["คณิตศาสตร์ที่พังทลาย", "", "รากฐานตรรกะที่แตกหัก"],
+    "note": "Text slide about math foundations collapsing"
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 75.93,
+    "source": "graphic",
+    "file": "russell_portrait.jpg",
+    "note": "Russell portrait, transition to ep3"
+  }
+]

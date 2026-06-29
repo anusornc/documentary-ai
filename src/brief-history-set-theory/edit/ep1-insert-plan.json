@@ -1,0 +1,120 @@
+[
+  {
+    "start_sec": 0,
+    "end_sec": 5.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["อนันต์ที่ใหญ่กว่าอนันต์", "", "ทฤษฎีเซตของคันทอร์"],
+    "note": "Title slide"
+  },
+  {
+    "start_sec": 5.0,
+    "end_sec": 10.0,
+    "source": "graphic",
+    "file": "cantor_portrait.jpg",
+    "note": "Georg Cantor portrait"
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 15.0,
+    "source": "graphic",
+    "file": "infinite_universe.jpg",
+    "note": "Visual representation of mathematical infinity"
+  },
+  {
+    "start_sec": 15.0,
+    "end_sec": 20.0,
+    "source": "graphic",
+    "file": "cantor_portrait.jpg",
+    "note": "Cantor looking thoughtful"
+  },
+  {
+    "start_sec": 20.0,
+    "end_sec": 25.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["ทฤษฎีเซต", "", "กลุ่มของสิ่งต่าง ๆ"],
+    "note": "Text slide defining sets"
+  },
+  {
+    "start_sec": 25.0,
+    "end_sec": 30.0,
+    "source": "graphic",
+    "file": "infinite_universe.jpg",
+    "note": "Endless concentric circles"
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 35.0,
+    "source": "graphic",
+    "file": "cantor_portrait.jpg",
+    "note": "Cantor looking thoughtful"
+  },
+  {
+    "start_sec": 35.0,
+    "end_sec": 40.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["วิธีการแย้งทแยง", "", "Cantor's Diagonal Argument"],
+    "note": "Text slide for diagonal proof"
+  },
+  {
+    "start_sec": 40.0,
+    "end_sec": 45.0,
+    "source": "graphic",
+    "file": "diagonal_proof.jpg",
+    "note": "Chalkboard showing diagonal proof"
+  },
+  {
+    "start_sec": 45.0,
+    "end_sec": 50.0,
+    "source": "graphic",
+    "file": "infinite_universe.jpg",
+    "note": "Fractal infinite levels"
+  },
+  {
+    "start_sec": 50.0,
+    "end_sec": 55.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["อนันต์หลายระดับ", "", "ขนาดที่แตกต่างกัน"],
+    "note": "Text slide explaining infinite sizes"
+  },
+  {
+    "start_sec": 55.0,
+    "end_sec": 60.0,
+    "source": "graphic",
+    "file": "cantor_portrait.jpg",
+    "note": "Cantor at desk writing"
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 65.0,
+    "source": "graphic",
+    "file": "infinite_universe.jpg",
+    "note": "Infinite stars and galaxies"
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["สรวงสวรรค์ของคันทอร์", "", "เดวิด ฮิลเบิร์ต"],
+    "note": "Text slide: Hilbert's quote"
+  },
+  {
+    "start_sec": 70.0,
+    "end_sec": 75.0,
+    "source": "graphic",
+    "file": "cantor_portrait.jpg",
+    "note": "Oil painting of Cantor"
+  },
+  {
+    "start_sec": 75.0,
+    "end_sec": 80.27,
+    "source": "graphic",
+    "file": "text",
+    "text_lines": ["แต่ทฤษฎีเซตที่เสรีนี้...", "", "กำลังจะพบกับปาราด็อกซ์ที่น่ากลัว"],
+    "note": "Final transition text slide"
+  }
+]

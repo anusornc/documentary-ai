@@ -1,0 +1,17 @@
+index,start_tc,end_tc,start_sec,end_sec,duration_sec,source,file,note
+1,00:00:00:00,00:00:05:00,0,5,5,graphic,brief-history-set-theory/ep1/text,Title slide
+2,00:00:05:00,00:00:10:00,5,10,5,graphic,brief-history-set-theory/ep1/cantor_portrait.jpg,Georg Cantor portrait
+3,00:00:10:00,00:00:15:00,10,15,5,graphic,brief-history-set-theory/ep1/infinite_universe.jpg,Visual representation of mathematical infinity
+4,00:00:15:00,00:00:20:00,15,20,5,graphic,brief-history-set-theory/ep1/cantor_portrait.jpg,Cantor looking thoughtful
+5,00:00:20:00,00:00:25:00,20,25,5,graphic,brief-history-set-theory/ep1/text,Text slide defining sets
+6,00:00:25:00,00:00:30:00,25,30,5,graphic,brief-history-set-theory/ep1/infinite_universe.jpg,Endless concentric circles
+7,00:00:30:00,00:00:35:00,30,35,5,graphic,brief-history-set-theory/ep1/cantor_portrait.jpg,Cantor looking thoughtful
+8,00:00:35:00,00:00:40:00,35,40,5,graphic,brief-history-set-theory/ep1/text,Text slide for diagonal proof
+9,00:00:40:00,00:00:45:00,40,45,5,graphic,brief-history-set-theory/ep1/diagonal_proof.jpg,Chalkboard showing diagonal proof
+10,00:00:45:00,00:00:50:00,45,50,5,graphic,brief-history-set-theory/ep1/infinite_universe.jpg,Fractal infinite levels
+11,00:00:50:00,00:00:55:00,50,55,5,graphic,brief-history-set-theory/ep1/text,Text slide explaining infinite sizes
+12,00:00:55:00,00:01:00:00,55,60,5,graphic,brief-history-set-theory/ep1/cantor_portrait.jpg,Cantor at desk writing
+13,00:01:00:00,00:01:05:00,60,65,5,graphic,brief-history-set-theory/ep1/infinite_universe.jpg,Infinite stars and galaxies
+14,00:01:05:00,00:01:10:00,65,70,5,graphic,brief-history-set-theory/ep1/text,Text slide: Hilbert's quote
+15,00:01:10:00,00:01:15:00,70,75,5,graphic,brief-history-set-theory/ep1/cantor_portrait.jpg,Oil painting of Cantor
+16,00:01:15:00,00:01:20:08,75,80.27,5.27,graphic,brief-history-set-theory/ep1/text,Final transition text slide
